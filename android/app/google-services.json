@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "849718041330",
+    "project_id": "hairsalonapplication",
+    "storage_bucket": "hairsalonapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849718041330:android:b1a65f6c15bf8af8c4ce6b",
+        "android_client_info": {
+          "package_name": "com.example.hair_salon_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849718041330-ds8s7j7o4sgree605q55oj10l8upgfns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hair_salon_application",
+            "certificate_hash": "4d1c0f78c6cb2b6ba565a76175f7683eaa665908"
+          }
+        },
+        {
+          "client_id": "849718041330-9iuqt3rll3440atprdem3c5nf4iu5p77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX9JgiRsdRoC8PBbLU6-T-Yfd7WcvDBYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849718041330-9iuqt3rll3440atprdem3c5nf4iu5p77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
